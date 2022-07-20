@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
+		background-color: #2e3974;
 		background-image: linear-gradient(to top, rgba(46, 49, 65, 0.4), rgba(46, 49, 65, 0.4)), url("images/lighthouse.png");
 		background-size: auto,
  cover;
